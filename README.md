@@ -1,5 +1,7 @@
-## 👋 Hi, I’m @Dimuuu
+## 👋 Hi, I'm Dmytro.
 
-This is my work account. I do UI development @ Infrinity 🚀. Mainly use Figma and React in my process.
+I do UI development @ Infrinity 🚀
+
+This is my work Github account.
 
 📫 Reach me at dmytro@infrinity.com
